@@ -1,1 +1,1 @@
-# Modul2
+# Modul2 func"Mask"
